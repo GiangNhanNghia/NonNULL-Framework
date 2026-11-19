@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+output/
+memory_store/
+benchmark_cache/
+benchmark_outputs/
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+.DS_Store

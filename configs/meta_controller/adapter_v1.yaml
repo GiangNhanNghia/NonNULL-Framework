@@ -1,0 +1,30 @@
+# Meta-Controller & Soul Adapter Configuration (VĂN - 10% Agile Core)
+controller_arch:
+  input_dim: 128
+  hidden_dim: 32
+  activation: "sigmoid"
+  gating_threshold_tau: 0.35
+
+soul:
+  r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+    - "gate_proj"
+    - "up_proj"
+    - "down_proj"
+
+philosophy:
+  alpha_mirror: 0.20
+  beta_empath: 0.05
+  eta_euler: 0.08
+  gamma_distill: 0.10
+  lambda_reg: 0.001
+  use_mirror: true
+  use_empath: true
+  use_euler: true
+  use_distill: false

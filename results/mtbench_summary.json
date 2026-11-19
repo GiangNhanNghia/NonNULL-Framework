@@ -1,0 +1,8 @@
+{
+  "questions_evaluated": 80,
+  "total_turns": 160,
+  "zero_point_z_hits": 160,
+  "zero_point_z_rate_pct": 100.0,
+  "base_answers_file": "./benchmark_outputs_llama8b/mtbench_base_answers.jsonl",
+  "nonnull_answers_file": "./benchmark_outputs_llama8b/mtbench_nonnull_answers.jsonl"
+}

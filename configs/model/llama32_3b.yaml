@@ -1,0 +1,7 @@
+# Backbone Model Configuration (VŨ - 90% Frozen Core)
+model:
+  base_model_id: "unsloth/Llama-3.2-3B-Instruct-bnb-4bit"
+  quantization: true
+  trust_remote_code: false
+  max_seq_length: 512
+  device_map: "auto"

@@ -1,0 +1,28 @@
+# NonNULL Framework V1.0 - Master Configuration
+defaults:
+  - model: qwen_base
+  - meta_controller: adapter_v1
+  - trainer: hierarchical_default
+
+seed: 42
+
+data:
+  train_file: "./nonnull_train_100.jsonl"
+  dpo_file: "./dpo_train_50.jsonl"
+  dpo_val_file: "./dpo_val_10.jsonl"
+  ood_test_file: "./nonnull_ood_20.jsonl"
+  test_file: "./nonnull_test_25.jsonl"
+
+memory:
+  enabled: false
+  store_path: "./memory_store"
+  embedder_model: "all-MiniLM-L6-v2"
+  top_k_recall: 3
+  use_cosine_similarity: true
+
+generation:
+  max_new_tokens: 256
+  temperature: 0.7
+  top_p: 0.9
+  repetition_penalty: 1.1
+  do_sample: true

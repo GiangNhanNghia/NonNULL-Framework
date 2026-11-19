@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use NonNULL Framework V1.0 or The NonNULL Suite in your research, please cite it as below."
+title: "NonNULL Framework V1.0: Cognitive Thermodynamics (Z-H-G), Zero-Tax Dynamic LoRA Alignment & Closed-Loop Scar Self-Healing"
+version: 1.0.0
+date-released: 2026-11-19
+authors:
+  - family-names: "Giang"
+    given-names: "Nhan Nghia"
+repository-code: "https://github.com/YOUR_USERNAME/NonNULL-Framework"
+license: MIT
