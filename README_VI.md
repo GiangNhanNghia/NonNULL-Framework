@@ -6,6 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_VI.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/1464250763.svg)](https://doi.org/10.5281/zenodo.24375246)
 
 **NonNULL Framework V1.0** là hệ khung kiến trúc mã nguồn mở hiện thực hóa **Học thuyết The Non-Null (Bộ 5 Quyển)** của tác giả **Giang Nhân Nghĩa**, cung cấp cơ chế căn chỉnh đạo đức, điều biến nhiệt động lực học nhận thức **$Z - H - G$**, vòng lặp **Tự chữa lành Vết sẹo Dữ liệu (*Closed-Loop Scar Self-Healing*)** và bảo toàn 100% trí tuệ nền tại **Điểm Không ($Z$)** chỉ với **100 mẫu SFT + 50 cặp DPO**.
 
