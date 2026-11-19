@@ -4,12 +4,11 @@
 
 > **Kết quả Benchmark Nổi bật (`Llama-3.1-8B` chỉ với `100 SFT + 50 DPO`):** Kéo tỷ lệ bị xuyên thủng **HarmBench** (ASR, bộ phân loại 13B chính thức) từ **9.0% → 1.0%** (`99.0%` An toàn, thắng `8–0`) và giữ **0.00% Thuế Căn chỉnh** (`160/160` khớp nguyên văn trên **MT-Bench**).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/NonNULL-Framework/blob/main/NonNULL_V1_Colab_VI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_VI.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **NonNULL Framework V1.0** là hệ khung kiến trúc mã nguồn mở hiện thực hóa **Học thuyết The Non-Null (Bộ 5 Quyển)** của tác giả **Giang Nhân Nghĩa**, cung cấp cơ chế căn chỉnh đạo đức, điều biến nhiệt động lực học nhận thức **$Z - H - G$**, vòng lặp **Tự chữa lành Vết sẹo Dữ liệu (*Closed-Loop Scar Self-Healing*)** và bảo toàn 100% trí tuệ nền tại **Điểm Không ($Z$)** chỉ với **100 mẫu SFT + 50 cặp DPO**.
 
-> **Lưu ý khi đưa lên GitHub**: Thay `YOUR_USERNAME/NonNULL-Framework` trong nút **Open In Colab** ở dòng trên bằng tên tài khoản và tên kho lưu trữ GitHub thực tế của bạn để người dùng có thể bấm mở và chạy trực tiếp tệp `NonNULL_V1_Colab_VI.ipynb` trên Google Colab.
 
 ## 1. Hệ Hằng số Nhiệt động lực học $Z - H - G$ (Chuẩn Quyển 1, Mục 3.1–3.3)
 
