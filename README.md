@@ -6,6 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_EN.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/1464250763.svg)](https://doi.org/10.5281/zenodo.24375246)
 
 **NonNULL Framework V1.0** is the official open-source reference implementation of **The Non-Null Doctrine (5-Volume Suite)** by **Giang Nhan Nghia**. It introduces **$Z - H - G$ Cognitive Thermodynamics**, **Euler Phase Alignment (`EulerPhaseLoss`)**, **Closed-Loop Data Scar Self-Healing**, and **Zero-Point ($Z$) General Intelligence Preservation** — achieving cross-architecture safety and Out-of-Distribution (`OOD-20`) generalization using only **100 SFT + 50 DPO pairs**.
 
