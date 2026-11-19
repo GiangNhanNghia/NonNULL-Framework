@@ -4,12 +4,11 @@
 
 > **Headline Benchmark Result (`Llama-3.1-8B` with only `100 SFT + 50 DPO` pairs):** Reduces official **HarmBench** Attack Success Rate (ASR, 13B classifier) from **9.0% → 1.0%** (`99.0%` Safe, `8–0` win) while maintaining **0.00% Alignment Tax** (`160/160` exact match on **MT-Bench**).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/NonNULL-Framework/blob/main/NonNULL_V1_Colab_EN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_EN.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **NonNULL Framework V1.0** is the official open-source reference implementation of **The Non-Null Doctrine (5-Volume Suite)** by **Giang Nhan Nghia**. It introduces **$Z - H - G$ Cognitive Thermodynamics**, **Euler Phase Alignment (`EulerPhaseLoss`)**, **Closed-Loop Data Scar Self-Healing**, and **Zero-Point ($Z$) General Intelligence Preservation** — achieving cross-architecture safety and Out-of-Distribution (`OOD-20`) generalization using only **100 SFT + 50 DPO pairs**.
 
-> **GitHub Setup Note**: Replace `YOUR_USERNAME/NonNULL-Framework` in the **Open In Colab** badge above with your actual GitHub username and repository name so anyone can click and launch `NonNULL_V1_Colab_EN.ipynb` directly in Google Colab.
 
 ## 1. $Z - H - G$ Cognitive Thermodynamics (Volume I, Sections 3.1–3.3)
 
