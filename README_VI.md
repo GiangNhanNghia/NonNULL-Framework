@@ -43,7 +43,7 @@ Phân tích trạng thái ẩn cả ba họ mô hình (`whitebox_anatomy.py`) ph
 | Tác vụ | NVIDIA L4 (24 GB) | NVIDIA A100 (40–80 GB) | Laptop 16 GB RAM (`edge/`) |
 | :--- | :---: | :---: | :---: |
 | **Huấn luyện trọn bộ cho người dùng cuối** (`Probe + SFT + LN-DPO + Gate`) | **~5–6 phút** | **~4 phút** | — |
-| **Chạy suy luận cục bộ** (4-bit GGUF / MLX + LoRA) | ~5.7 giây/câu | ~2.5 giây/câu | Hỗ trợ (`~5.2 GB` RAM) |
+| **Chạy suy luận cục bộ** (4-bit GGUF / MLX + LoRA) | ~5.7 giây/câu | ~2.5 giây/câu | Thử nghiệm (~5.2 GB ước tính, sẽ đo thực tế ở v2.0). |
 | **Chạy trọn bộ 3 Benchmark nghiên cứu** (`--bench all`, từ đầu) | ~3–4 giờ | ~1–1.5 giờ | — |
 
 ## 4. Chạy Nhanh (Quick Start)
