@@ -1,6 +1,6 @@
 # NonNULL Framework v1.0.1
 
-[English](README.md) | [Tiếng Việt](README_VI.md) | [Technical Docs (EN)](docs/en/README.md) | [Tài liệu Kỹ thuật (VI)](docs/vi/README.md) | [Custom Dataset Guide](docs/en/04_Custom_Dataset_Authoring_Guide.md) | [Edge 16 GB Guide](edge/README.md)
+[English](README.md) | [Tiếng Việt](README_VI.md) | [Technical Docs (EN)](docs/en/README.md) | [Tài liệu Kỹ thuật (VI)](docs/vi/README.md) | [Edge 16 GB Guide](edge/README.md)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_EN.ipynb)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24379247.svg)](https://doi.org/10.5281/zenodo.24379247)
