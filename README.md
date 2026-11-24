@@ -8,7 +8,7 @@
 
 ## Democratizing Controlled AI Alignment on Consumer Hardware
 
-Modern LLMs often fall into two extremes: robotic over-refusal on benign queries (empty/"NULL" responses) or reckless uncensoring that strips away safety boundaries. **NonNULL Framework v1.0.1** (by **Giang Nhan Nghia**, *The Non-Null Project*) turns the philosophy of *"never refusing unnecessarily, while holding firm on core safety boundaries"* into an end-to-end, open-source PyTorch alignment layer.
+Modern LLMs often fall into two extremes: robotic over-refusal on benign queries (empty/"NULL" responses) or reckless uncensoring that strips away safety boundaries. **NonNULL Framework v1.0.1** (by **Giang Nhan Nghia**, *The NonNULL Project*) turns the philosophy of *"never refusing unnecessarily, while holding firm on core safety boundaries"* into an end-to-end, open-source PyTorch alignment layer.
 
 Rather than releasing a single black-box checkpoint, NonNULL provides the complete toolkit for anyone to train, inspect, and deploy value alignment locally:
 * **Hidden-State Routing & Preference Optimization:** Wraps a frozen 4-bit backbone (**VŨ**) with one lightweight LoRA adapter (**VĂN**, `0.52%` trainable parameters), a compact **2.1 MB Binary Hidden-State Gate** (`doctrine/hidden_gate.py`), meta-control & memory layers (`meta_layers.py`, `doctrine_agent.py`, `ltm_services.py`), and **Empathic LN-DPO** (`run_dpo_v1.py`) — routing benign inputs to **Zero-Point ($\alpha = 0.0$)** and activating full alignment ($\alpha = 1.0$) on ethical dilemmas or harmful requests without keyword rules.
