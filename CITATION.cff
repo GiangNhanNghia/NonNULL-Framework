@@ -3,7 +3,7 @@ message: "If you use NonNULL Framework v1.0.1 in your research, please cite it a
 title: "NonNULL Framework v1.0.1: Zero-Tax Hidden-State LoRA Alignment, Frozen-Subspace Representation Contrast & Empathic LN-DPO"
 version: 1.0.1
 date-released: 2026-11-22
-doi: 10.5281/zenodo.24379247
+doi: 10.5281/zenodo.24491428
 authors:
   - family-names: "Giang"
     given-names: "Nhan Nghia"
