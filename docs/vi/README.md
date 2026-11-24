@@ -2,7 +2,7 @@
 
 * **Tác giả:** Giang Nhân Nghĩa (*The Non-Null Project*)
 * **Phiên bản:** `1.0.1` | **Giấy phép:** MIT License
-* **Kho mã nguồn:** [GitHub: GiangNhanNghia/NonNULL-Framework](https://github.com/GiangNhanNghia/NonNULL-Framework) | **DOI:** [10.5281/zenodo.24379247](https://doi.org/10.5281/zenodo.24379247)
+* **Kho mã nguồn:** [GitHub: GiangNhanNghia/NonNULL-Framework](https://github.com/GiangNhanNghia/NonNULL-Framework) | **DOI:** [10.5281/zenodo.24491428](https://doi.org/10.5281/zenodo.24491428)
 
 ## Danh Mục Tài Liệu Kỹ Thuật (4 Quyển)
 
