@@ -43,7 +43,7 @@ Probing all three models (`whitebox_anatomy.py`) confirms a **universal safety b
 | Workflow | NVIDIA L4 (24 GB) | NVIDIA A100 (40–80 GB) | 16 GB Laptop (`edge/`) |
 | :--- | :---: | :---: | :---: |
 | **End-User Full Training** (`Probe + SFT + Empathic LN-DPO + Gate`) | **~5–6 min** | **~4 min** | — |
-| **Local Inference** (4-bit GGUF / MLX + LoRA) | ~5.7 s/prompt | ~2.5 s/prompt | Supported (`~5.2 GB` RAM) |
+| **Local Inference** (4-bit GGUF / MLX + LoRA) | ~5.7 s/prompt | ~2.5 s/prompt | Experimental (~5.2 GB est., real-device benchmark planned for v2.0). |
 | **Full 3-Benchmark Research Suite** (`--bench all`, from scratch) | ~3–4 hrs | ~1–1.5 hrs | — |
 
 ## 4. Quick Start
