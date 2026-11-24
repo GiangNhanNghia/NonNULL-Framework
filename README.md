@@ -3,7 +3,7 @@
 [English](README.md) | [Tiếng Việt](README_VI.md) | [Technical Docs (EN)](docs/en/README.md) | [Tài liệu Kỹ thuật (VI)](docs/vi/README.md) | [Edge 16 GB Guide](edge/README.md)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiangNhanNghia/NonNULL-Framework/blob/main/NonNULL_V1_Colab_EN.ipynb)
-[![DOI][[https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24491428-blue.svg]](https://doi.org/10.5281/zenodo.24491428)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24491428-blue.svg)](https://doi.org/10.5281/zenodo.24491428)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Democratizing Controlled AI Alignment on Consumer Hardware
