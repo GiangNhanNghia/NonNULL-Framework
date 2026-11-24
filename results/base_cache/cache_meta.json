@@ -1,0 +1,7 @@
+{
+  "gpu_name": "NVIDIA L4",
+  "model_id": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+  "seed": 42,
+  "benchmarks_cached": ["harmbench_200", "mtbench_80_160turns", "xstest_450"],
+  "note": "Generated on NVIDIA L4 24GB. Exact-match MT-Bench comparison requires running on the same GPU family (L4)."
+}

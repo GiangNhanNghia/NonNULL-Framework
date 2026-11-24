@@ -1,0 +1,7 @@
+# Backbone Model Configuration (VŨ - 90% Frozen Core)
+model:
+  base_model_id: "Qwen/Qwen2.5-3B-Instruct"
+  quantization: true
+  trust_remote_code: true
+  max_seq_length: 512
+  device_map: "auto"

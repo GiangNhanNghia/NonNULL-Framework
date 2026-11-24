@@ -1,0 +1,13 @@
+{
+  "gpu_name": "NVIDIA A100-SXM4-40GB",
+  "questions_evaluated": 80,
+  "total_turns": 160,
+  "static_lora": false,
+  "use_thermo": true,
+  "zero_point_z_hits": 144,
+  "zero_point_z_rate_pct": 90.0,
+  "exact_match_turns": 132,
+  "exact_match_rate_pct": 82.5,
+  "base_answers_file": "./benchmark_outputs_mistral7b/mtbench_base_answers.jsonl",
+  "nonnull_answers_file": "./benchmark_outputs_mistral7b/mtbench_nonnull_answers.jsonl"
+}

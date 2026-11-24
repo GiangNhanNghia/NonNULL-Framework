@@ -1,0 +1,211 @@
+{
+  "model_id": "unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
+  "num_layers": 32,
+  "hidden_size": 4096,
+  "recommended_split_layer": 16,
+  "recommended_probe_layers": [
+    11,
+    13,
+    15
+  ],
+  "best_mid_layer_stats": {
+    "layer_idx": 15,
+    "layer_num": 16,
+    "axis_auc": 1.0,
+    "fisher_ratio": 36.7604
+  },
+  "layers": [
+    {
+      "layer_idx": 0,
+      "layer_num": 1,
+      "axis_auc": 0.8633,
+      "fisher_ratio": 1.2712
+    },
+    {
+      "layer_idx": 1,
+      "layer_num": 2,
+      "axis_auc": 0.9238,
+      "fisher_ratio": 1.4291
+    },
+    {
+      "layer_idx": 2,
+      "layer_num": 3,
+      "axis_auc": 0.9492,
+      "fisher_ratio": 1.5321
+    },
+    {
+      "layer_idx": 3,
+      "layer_num": 4,
+      "axis_auc": 0.9336,
+      "fisher_ratio": 1.566
+    },
+    {
+      "layer_idx": 4,
+      "layer_num": 5,
+      "axis_auc": 0.9688,
+      "fisher_ratio": 1.7599
+    },
+    {
+      "layer_idx": 5,
+      "layer_num": 6,
+      "axis_auc": 0.9863,
+      "fisher_ratio": 2.1096
+    },
+    {
+      "layer_idx": 6,
+      "layer_num": 7,
+      "axis_auc": 1.0,
+      "fisher_ratio": 2.3633
+    },
+    {
+      "layer_idx": 7,
+      "layer_num": 8,
+      "axis_auc": 1.0,
+      "fisher_ratio": 2.7626
+    },
+    {
+      "layer_idx": 8,
+      "layer_num": 9,
+      "axis_auc": 1.0,
+      "fisher_ratio": 3.4379
+    },
+    {
+      "layer_idx": 9,
+      "layer_num": 10,
+      "axis_auc": 1.0,
+      "fisher_ratio": 3.3654
+    },
+    {
+      "layer_idx": 10,
+      "layer_num": 11,
+      "axis_auc": 1.0,
+      "fisher_ratio": 3.6379
+    },
+    {
+      "layer_idx": 11,
+      "layer_num": 12,
+      "axis_auc": 1.0,
+      "fisher_ratio": 6.984
+    },
+    {
+      "layer_idx": 12,
+      "layer_num": 13,
+      "axis_auc": 1.0,
+      "fisher_ratio": 14.1339
+    },
+    {
+      "layer_idx": 13,
+      "layer_num": 14,
+      "axis_auc": 1.0,
+      "fisher_ratio": 21.1495
+    },
+    {
+      "layer_idx": 14,
+      "layer_num": 15,
+      "axis_auc": 1.0,
+      "fisher_ratio": 32.1515
+    },
+    {
+      "layer_idx": 15,
+      "layer_num": 16,
+      "axis_auc": 1.0,
+      "fisher_ratio": 36.7604
+    },
+    {
+      "layer_idx": 16,
+      "layer_num": 17,
+      "axis_auc": 1.0,
+      "fisher_ratio": 28.7056
+    },
+    {
+      "layer_idx": 17,
+      "layer_num": 18,
+      "axis_auc": 1.0,
+      "fisher_ratio": 26.0982
+    },
+    {
+      "layer_idx": 18,
+      "layer_num": 19,
+      "axis_auc": 1.0,
+      "fisher_ratio": 27.4446
+    },
+    {
+      "layer_idx": 19,
+      "layer_num": 20,
+      "axis_auc": 1.0,
+      "fisher_ratio": 23.2051
+    },
+    {
+      "layer_idx": 20,
+      "layer_num": 21,
+      "axis_auc": 1.0,
+      "fisher_ratio": 24.1536
+    },
+    {
+      "layer_idx": 21,
+      "layer_num": 22,
+      "axis_auc": 1.0,
+      "fisher_ratio": 27.4798
+    },
+    {
+      "layer_idx": 22,
+      "layer_num": 23,
+      "axis_auc": 1.0,
+      "fisher_ratio": 27.9891
+    },
+    {
+      "layer_idx": 23,
+      "layer_num": 24,
+      "axis_auc": 1.0,
+      "fisher_ratio": 20.6827
+    },
+    {
+      "layer_idx": 24,
+      "layer_num": 25,
+      "axis_auc": 1.0,
+      "fisher_ratio": 15.9454
+    },
+    {
+      "layer_idx": 25,
+      "layer_num": 26,
+      "axis_auc": 1.0,
+      "fisher_ratio": 10.0813
+    },
+    {
+      "layer_idx": 26,
+      "layer_num": 27,
+      "axis_auc": 1.0,
+      "fisher_ratio": 9.0692
+    },
+    {
+      "layer_idx": 27,
+      "layer_num": 28,
+      "axis_auc": 1.0,
+      "fisher_ratio": 6.3816
+    },
+    {
+      "layer_idx": 28,
+      "layer_num": 29,
+      "axis_auc": 1.0,
+      "fisher_ratio": 6.7728
+    },
+    {
+      "layer_idx": 29,
+      "layer_num": 30,
+      "axis_auc": 1.0,
+      "fisher_ratio": 6.3283
+    },
+    {
+      "layer_idx": 30,
+      "layer_num": 31,
+      "axis_auc": 1.0,
+      "fisher_ratio": 6.7381
+    },
+    {
+      "layer_idx": 31,
+      "layer_num": 32,
+      "axis_auc": 1.0,
+      "fisher_ratio": 10.1934
+    }
+  ]
+}
