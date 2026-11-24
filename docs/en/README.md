@@ -2,7 +2,7 @@
 
 * **Author:** Giang Nhan Nghia (*The Non-Null Project*)
 * **Version:** `1.0.1` | **License:** MIT License
-* **Repository:** [GitHub: GiangNhanNghia/NonNULL-Framework](https://github.com/GiangNhanNghia/NonNULL-Framework) | **DOI:** [10.5281/zenodo.24379247](https://doi.org/10.5281/zenodo.24379247)
+* **Repository:** [GitHub: GiangNhanNghia/NonNULL-Framework](https://github.com/GiangNhanNghia/NonNULL-Framework) | **DOI:** [10.5281/zenodo.24491428](https://doi.org/10.5281/zenodo.24491428)
 
 ## Technical Documentation Index (4 Volumes)
 
