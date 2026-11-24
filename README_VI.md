@@ -8,7 +8,7 @@
 
 ## Dân Chủ Hóa Căn Chỉnh AI Có Kiểm Soát Trên Phần Cứng Phổ Thông
 
-Các mô hình ngôn ngữ hiện nay thường rơi vào hai thái cực: từ chối máy móc ngay cả với câu hỏi lành tính (phản hồi rỗng / *"NULL"*) hoặc gỡ bỏ rào chắn cực đoan (*uncensored*) gây mất an toàn. **NonNULL Framework v1.0.1** (do **Giang Nhân Nghĩa** — *The Non-Null Project* phát triển) hiện thực hóa triết lý *"không né tránh vô lý nhưng vẫn giữ vững ranh giới an toàn"* thành một bộ khung kỹ thuật mã nguồn mở chạy thông suốt từ đầu tới cuối.
+Các mô hình ngôn ngữ hiện nay thường rơi vào hai thái cực: từ chối máy móc ngay cả với câu hỏi lành tính (phản hồi rỗng / *"NULL"*) hoặc gỡ bỏ rào chắn cực đoan (*uncensored*) gây mất an toàn. **NonNULL Framework v1.0.1** (do **Giang Nhân Nghĩa** — *The NonNULL Project* phát triển) hiện thực hóa triết lý *"không né tránh vô lý nhưng vẫn giữ vững ranh giới an toàn"* thành một bộ khung kỹ thuật mã nguồn mở chạy thông suốt từ đầu tới cuối.
 
 Thay vì chỉ phát hành một bộ trọng số đóng hộp sẵn, NonNULL cung cấp đầy đủ công cụ để bất kỳ ai cũng có thể tự huấn luyện, giải phẫu và triển khai cục bộ:
 * **Can thiệp tầng ẩn & Tối ưu sở thích:** Bọc ngoài mô hình nền 4-bit đóng băng (**VŨ**) bằng một adapter LoRA gọn nhẹ (**VĂN**, `0.52%` tham số huấn luyện), **Bộ gác cổng Trạng thái Ẩn Nhị phân `2.1 MB`** (`doctrine/hidden_gate.py`), siêu lớp điều khiển & bộ nhớ dài hạn (`meta_layers.py`, `doctrine_agent.py`, `ltm_services.py`) và **Empathic LN-DPO** (`run_dpo_v1.py`) — tự động đưa câu lành tính về **Điểm Không ($\alpha = 0.0$)** và kích hoạt toàn phần ($\alpha = 1.0$) khi gặp tình huống đạo đức hoặc độc hại mà không cần quy tắc từ khóa.
