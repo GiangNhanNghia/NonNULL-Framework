@@ -1,6 +1,7 @@
 # Edge Deployment Guide — 16 GB RAM Laptops (Mac & PC)
 
 NonNULL Framework v1.0.1 is designed so that anyone can train an alignment adapter in **~4–6 minutes on a single Colab GPU** and deploy it locally on a **16 GB RAM laptop** using 4-bit quantization (~5.2 GB memory footprint).
+Note: These llama.cpp and mlx-lm wrappers are experimental starter scripts in v1.0.1; end-to-end RAM, TTFT, scale=0 parity, and ASR benchmarks on real 16 GB laptops are scheduled for v2.0.
 
 ## Option 1: PC / Linux / macOS via `llama.cpp` (GGUF LoRA)
 
